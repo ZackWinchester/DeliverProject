@@ -471,4 +471,4 @@ plt.show()
 
 # Upon Breaking the loop
 imageRealTimeCapturing.release()
-cv2.destoryAllWindows()
+cv2.destroyAllWindows()
